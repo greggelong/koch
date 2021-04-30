@@ -1,0 +1,16 @@
+ 
+html, body {
+  background-color: #282424;
+  margin: 3%;
+  padding: 0;
+  color: green;
+  
+}
+canvas {
+  display: block;
+}
+textarea {
+ color:green; 
+ font-size:large;
+  background: black;
+}
