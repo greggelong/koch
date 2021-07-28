@@ -42,6 +42,9 @@ function setup() {
   output.html(axiom);
   mytickbox = createCheckbox('random', false);
   //translate(width/2,height);
+  createP();
+  createP(); // put some space between button and link
+  createA('https://github.com/greggelong/koch', 'link to this  repo');
   turtle();
 
 }
